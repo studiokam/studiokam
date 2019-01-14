@@ -122,6 +122,39 @@
 	background: #f3f3f3;
 	border-right: 1px solid #f3f3f3;
 }
+.box-img img {
+	/*padding: 2px;*/
+	/*border: 1px solid #e5e5e5;*/
+	background: #fcfcfc;
+	border-radius: 3px;
+	-webkit-box-shadow: 0px 0px 12px -4px rgba(0,0,0,0.5);
+	-moz-box-shadow: 0px 0px 12px -4px rgba(0,0,0,0.5);
+	box-shadow: 0px 0px 12px -4px rgba(0,0,0,0.5);
+}
+/*.box-img  {
+	padding: 15px;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #e5e5e5;
+	background: #fff;
+	border-radius: 3px;
+	-webkit-box-shadow: inset 0px 0px 3px 2px rgba(0,0,0,0.06);
+	-moz-box-shadow: inset 0px 0px 3px 2px rgba(0,0,0,0.06);
+	box-shadow: inset 0px 0px 3px 2px rgba(0,0,0,0.06);
+}
+.cont2 .box-img  {
+	padding: 15px;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #e5e5e5;
+	background: #f3f3f3;
+	border-radius: 3px;
+	-webkit-box-shadow: inset 0px 0px 3px 2px rgba(0,0,0,0.06);
+	-moz-box-shadow: inset 0px 0px 3px 2px rgba(0,0,0,0.06);
+	box-shadow: inset 0px 0px 3px 2px rgba(0,0,0,0.06);
+}*/
 
 .box-left-graf img {
 	border:1px solid #e5e5e5;
